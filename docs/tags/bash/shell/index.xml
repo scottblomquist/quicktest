@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bash/Shell on Eddie Webb</title>
+    <title>bash/shell on Eddie Webb</title>
     <link>https://scottblomquist.github.io/quicktest/tags/bash/shell/</link>
-    <description>Recent content in Bash/Shell on Eddie Webb</description>
+    <description>Recent content in bash/shell on Eddie Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
